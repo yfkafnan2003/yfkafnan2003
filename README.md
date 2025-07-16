@@ -10,5 +10,19 @@ A 3D modeler with experience working on Fiverr, creating game-ready assets and c
 ## My Projects
 - Dhaka After Dark (horror survival game)
 - Orbventure (2D platform game)
+  
+# My Fiverr Profile
 
+I offer 3D modeling, asset design, and indie game art on Fiverr.
+
+👉 Check out my Fiverr gigs here: [fiverr.com/kazi_afnan](https://www.fiverr.com/kazi_afnan)
+
+## Sample Work
+
+<p align="center">
+  <img src="images/PistolModel.png" alt="Gig 1" width="200"/>
+  <img src="images/SciFiRifle.png" alt="Gig 2" width="200"/>
+  <img src="images/House.png" alt="Gig 3" width="200"/>
+  <img src="images/Riverside.png" alt="Gig 4" width="200"/>
+</p>
 ---
