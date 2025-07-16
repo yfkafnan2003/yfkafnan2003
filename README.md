@@ -37,7 +37,7 @@ A horror survival game set in the streets of Dhaka, Bangladesh.
   <img src="images/C2.png" alt="SS 2" width="200"/>
   <img src="images/C3.png" alt="SS 3" width="600"/>
 </p>
-👉 **[Dhaka After Dark Download(Windows)](https://github.com/yfkafnan2003/Dhaka-After-Dark/releases)**
+👉 [Dhaka After Dark Download(Windows)](https://github.com/yfkafnan2003/Dhaka-After-Dark/releases)
 
 Made in Unity by Afnan Alam.
 ---
