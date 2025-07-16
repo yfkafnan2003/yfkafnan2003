@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🎮 Kazi Afnan Alam 
+**'Digital Craftsmen (Game Developer/3D Modeler)'**
 
-<!--
-**yfkafnan2003/yfkafnan2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A 3D modeler with experience working on Fiverr, creating game-ready assets and custom models. I'm also an indie game developer who has built two games from the ground up, combining my skills in design, development, and storytelling. I work primarily with Blender and Unity, and I'm always learning new tools and techniques to bring creative ideas to life.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Blender (3D modeling, UV, animation)
+- Unity (C#, game systems, UI, AI)
+  
+## My Projects
+- Dhaka After Dark (horror survival game)
+- Orbventure (2D platform game)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
