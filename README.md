@@ -25,4 +25,5 @@ I offer 3D modeling, asset design, and indie game art on Fiverr.
   <img src="images/House.png" alt="Gig 3" width="200"/>
   <img src="images/Riverside.png" alt="Gig 4" width="200"/>
 </p>
+
 ---
