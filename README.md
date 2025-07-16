@@ -33,7 +33,7 @@ I offer 3D modeling, asset design, and indie game art on Fiverr.
 
 A horror survival game set in the streets of Dhaka, Bangladesh.
 <p align="center">
-  <img src="images/C1.png" alt="SS 1" width="200"/>
+  <img src="images/C1.jpg" alt="SS 1" width="200"/>
   <img src="images/C2.png" alt="SS 2" width="200"/>
   <img src="images/C3.png" alt="SS 3" width="200"/>
 </p>
