@@ -3,6 +3,8 @@
 
 A 3D modeler with experience working on Fiverr, creating game-ready assets and custom models. I'm also an indie game developer who has built two games from the ground up, combining my skills in design, development, and storytelling. I work primarily with Blender and Unity, and I'm always learning new tools and techniques to bring creative ideas to life.
 
+---
+
 ## 🛠 Skills
 - Blender (3D modeling, UV, animation)
 - Unity (C#, game systems, UI, AI)
@@ -26,4 +28,13 @@ I offer 3D modeling, asset design, and indie game art on Fiverr.
   <img src="images/Riverside.png" alt="Gig 4" width="200"/>
 </p>
 
+---
+
+# Dhaka After Dark
+
+A horror survival game set in the streets of Dhaka, Bangladesh.
+
+👉 **[Dhaka After Dark Download(Windows)](https://github.com/yfkafnan2003/dhaka-after-dark/releases/latest)**
+
+Made in Unity by Afnan Alam.
 ---
