@@ -29,7 +29,7 @@ I offer 3D modeling, asset design, and indie game art on Fiverr.
 
 ---
 
-# Dhaka After Dark
+# Dhaka After Dark (Developed Game)
 
 A horror survival game set in the streets of Dhaka, Bangladesh.
 <p align="center">
