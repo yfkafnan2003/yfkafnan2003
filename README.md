@@ -29,15 +29,3 @@ I offer 3D modeling, asset design, and indie game art on Fiverr.
 
 ---
 
-# Dhaka After Dark (Developed Game)
-
-A horror survival game set in the streets of Dhaka, Bangladesh.
-<p align="center">
-  <img src="images/C1.jpg" alt="SS 1" width="600"/>
-  <img src="images/C2.png" alt="SS 2" width="200"/>
-  <img width="900" height="600" alt="Dhaka After Dark Cover" src="https://github.com/user-attachments/assets/46ba53aa-b7b5-44d4-981b-047c50707fd0" />
-</p>
-👉 [Dhaka After Dark Download(Windows)](https://github.com/yfkafnan2003/Dhaka-After-Dark/releases)
-
-Made in Unity by Afnan Alam.
----
