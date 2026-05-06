@@ -9,8 +9,8 @@ I am a Unity game developer and 3D artist with hands-on experience building comp
 
 I actively solve problems to improve algorithmic thinking and efficiency.
 
-- 🔗 Codeforces Profile: [https://codeforces.com/profile/YOUR_USERNAME](https://codeforces.com/profile/afnan179)
-- 📂 Repository: [https://github.com/yfkafnan2003/YOUR_CP_REPO](https://github.com/yfkafnan2003/Competitive-Programming)
+- 🔗 Codeforces Profile: [https://codeforces.com/profile/afnan_179](https://codeforces.com/profile/afnan179)
+- 📂 Repository: [https://github.com/yfkafnan2003/Competitive-Programming](https://github.com/yfkafnan2003/Competitive-Programming)
 
 📌 Topics Covered:
 - Data Structures
