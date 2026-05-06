@@ -48,7 +48,7 @@ I actively solve problems to improve algorithmic thinking and efficiency.
 I create optimized 3D assets for games using Blender.
 
 📂 3D Portfolio Repo:  
-https://github.com/yfkafnan2003/YOUR_3D_REPO
+[https://github.com/yfkafnan2003/3D-Models-&-Arts](https://github.com/yfkafnan2003/3D-Models-And-Arts)
 
 ### Sample Work
 
