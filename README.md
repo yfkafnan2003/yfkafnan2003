@@ -1,31 +1,94 @@
-# 🎮 Kazi Afnan Alam 
-**Digital Craftsmen (Game Developer/3D Modeler)**
+# 👨‍💻 Kazi Afnan Alam
+### Game Developer | 3D Artist | Problem Solver
 
-A 3D modeler with experience working on Fiverr, creating game-ready assets and custom models. I'm also an indie game developer who has built two games from the ground up, combining my skills in design, development, and storytelling. I work primarily with Blender and Unity, and I'm always learning new tools and techniques to bring creative ideas to life.
+I am a Unity game developer and 3D artist with hands-on experience building complete games and creating game-ready assets. I also practice competitive programming to strengthen my problem-solving skills.
 
+---
 
-## 🛠 Skills
-- Blender (3D modeling, UV, animation)
-- Unity (C#, game systems, UI, AI)
-  
-## My Projects
-- Dhaka After Dark (horror survival game)
-- Orbventure (2D platform game)
-  
-# My Fiverr Profile
+## 🧠 Competitive Programming
 
-I offer 3D modeling, asset design, and indie game art on Fiverr.
+I actively solve problems to improve algorithmic thinking and efficiency.
 
-👉 Check out my Fiverr gigs here: [fiverr.com/kazi_afnan](https://www.fiverr.com/kazi_afnan)
+- 🔗 Codeforces Profile: [https://codeforces.com/profile/YOUR_USERNAME](https://codeforces.com/profile/afnan179)
+- 📂 Repository: [https://github.com/yfkafnan2003/YOUR_CP_REPO](https://github.com/yfkafnan2003/Competitive-Programming)
 
-## Sample Work
+📌 Topics Covered:
+- Data Structures
+- Algorithms
+- Problem Solving Techniques
+
+---
+
+## 🎮 Projects
+
+### 🧟 Infection Zero (FPS Zombie Game)
+- Built with Unity (C#)
+- Mission system (survive, kill zombies)
+- Weapon system & UI
+- Mobile optimized gameplay
+
+🔗 Repo: [https://github.com/yfkafnan2003/infection-zero-unity](https://github.com/yfkafnan2003/infection-zero-unity)
+
+---
+
+### 🌆 Dhaka After Dark (Horror Survival)
+- атмосферic horror experience
+- environment design + gameplay systems
+
+---
+
+### 🌀 Orbventure (2D Platformer)
+- classic platform mechanics
+- level design and player movement
+
+---
+
+## 🎨 3D Artist Journey
+
+I create optimized 3D assets for games using Blender.
+
+📂 3D Portfolio Repo:  
+https://github.com/yfkafnan2003/YOUR_3D_REPO
+
+### Sample Work
 
 <p align="center">
-  <img src="images/PistolModel.png" alt="Gig 1" width="200"/>
-  <img src="images/SciFiRifle.png" alt="Gig 2" width="200"/>
-  <img src="images/House.png" alt="Gig 3" width="200"/>
-  <img src="images/Riverside.png" alt="Gig 4" width="200"/>
+  <img src="images/PistolModel.png" width="200"/>
+  <img src="images/SciFiRifle.png" width="200"/>
+  <img src="images/House.png" width="200"/>
+  <img src="images/Riverside.png" width="200"/>
 </p>
 
 ---
 
+## 💼 Work Experience
+
+### 🎯 Fiverr (Freelance 3D Artist)
+I worked as a freelance 3D artist creating custom models and game assets for clients.
+
+🔗 Fiverr Profile:  
+https://www.fiverr.com/kazi_afnan
+
+📌 Services:
+- 3D Modeling
+- Game Assets
+- Custom Designs
+
+---
+
+## 🛠 Skills
+
+- **Game Development:** Unity, C#
+- **3D Modeling:** Blender
+- **Problem Solving:** Competitive Programming
+
+---
+
+## 📫 Contact
+
+- Email: YOUR_EMAIL
+- GitHub: https://github.com/yfkafnan2003
+
+---
+
+⭐ *Focused on building games, improving skills, and creating impactful digital experiences.*
