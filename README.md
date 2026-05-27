@@ -53,6 +53,7 @@ I create optimized 3D assets for games using Blender.
 ### Sample Work
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-&-Arts/main/images/Sword.png" width="600"/>
   <img src="3D-Models-&-Arts/images/Sword.png" width="200"/>
   <img src="3D-Models-&-Arts/images/Ramen Bowl.png" width="200"/>
   <img src="3D-Models-&-Arts/images/Burger.png" width="200"/>
