@@ -53,10 +53,15 @@ I create optimized 3D assets for games using Blender.
 ### Sample Work
 
 <p align="center">
-  <img src="images/PistolModel.png" width="200"/>
-  <img src="images/SciFiRifle.png" width="200"/>
-  <img src="images/House.png" width="200"/>
+  <img src="images/Sword.png" width="200"/>
+  <img src="images/Ramen Bowl.png" width="200"/>
+  <img src="images/Burger.png" width="200"/>
+  <img src="images/Donut 2.png" width="200"/>
+  <img src="images/Dekstop.png" width="200"/>
+  <img src="images/Donut.png" width="200"/>
   <img src="images/Riverside.png" width="200"/>
+  <img src="images/Sci Fi Gun.png" width="200"/>
+  <img src="images/SciFi Rifle.png" width="200"/>
 </p>
 
 ---
