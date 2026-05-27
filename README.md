@@ -53,15 +53,15 @@ I create optimized 3D assets for games using Blender.
 ### Sample Work
 
 <p align="center">
-  <img src="yfkafnan2003/3D-Models-&-Arts/images/Sword.png" width="200"/>
-  <img src="yfkafnan2003/3D-Models-&-Arts/images/Ramen Bowl.png" width="200"/>
-  <img src="yfkafnan2003/3D-Models-&-Arts/images/Burger.png" width="200"/>
-  <img src="yfkafnan2003/3D-Models-&-Arts/images/Donut 2.png" width="200"/>
-  <img src="yfkafnan2003/3D-Models-&-Arts/images/Dekstop.png" width="200"/>
-  <img src="yfkafnan2003/3D-Models-&-Arts/images/Donut.png" width="200"/>
-  <img src="yfkafnan2003/3D-Models-&-Arts/images/Riverside.png" width="200"/>
-  <img src="yfkafnan2003/3D-Models-&-Arts/images/Sci Fi Gun.png" width="200"/>
-  <img src="yfkafnan2003/3D-Models-&-Arts/images/SciFi Rifle.png" width="200"/>
+  <img src="3D-Models-&-Arts/images/Sword.png" width="200"/>
+  <img src="3D-Models-&-Arts/images/Ramen Bowl.png" width="200"/>
+  <img src="3D-Models-&-Arts/images/Burger.png" width="200"/>
+  <img src="3D-Models-&-Arts/images/Donut 2.png" width="200"/>
+  <img src="3D-Models-&-Arts/images/Dekstop.png" width="200"/>
+  <img src="3D-Models-&-Arts/images/Donut.png" width="200"/>
+  <img src="3D-Models-&-Arts/images/Riverside.png" width="200"/>
+  <img src="3D-Models-&-Arts/images/Sci Fi Gun.png" width="200"/>
+  <img src="3D-Models-&-Arts/images/SciFi Rifle.png" width="200"/>
 </p>
 
 ---
