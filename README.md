@@ -1,45 +1,28 @@
 # Kazi Afnan Alam
 ### Game Developer | 3D Artist | Problem Solver
 
-I am a Unity game developer and 3D artist with hands-on experience building complete games and creating game-ready assets. I also practice competitive programming to strengthen my problem-solving skills.
+I am a Unity game developer and 3D artist with hands-on experience building complete games and creating game-ready assets. I work across programming, game development, 3D modeling, animation, and visual design. I also practice competitive programming to strengthen my problem-solving skills.
 
 ---
 
-## Competitive Programming
-
-I actively solve problems to improve algorithmic thinking and efficiency.
-
-- Codeforces Profile: [https://codeforces.com/profile/afnan_179](https://codeforces.com/profile/afnan179)
-- Repository: [https://github.com/yfkafnan2003/Competitive-Programming](https://github.com/yfkafnan2003/Competitive-Programming)
-
-Topics Covered:
-- Data Structures
-- Algorithms
-- Problem Solving Techniques
-
----
-
-## Projects
----
-
-## Game Development
+## 🎮 Game Development
 
 ### Infection Zero — FPS Zombie Survival
 
 <p align="center">
-  <img src="YOUR_INFECTION_ZERO_IMAGE_URL_HERE" width="700"/>
+  <img src="./images/infection_zero_01.png" width="750"/>
 </p>
 
-A mobile FPS zombie survival game built with Unity and C#. Fight through waves of infected enemies, complete survival missions, manage weapons, and survive as long as possible.
+**Infection Zero** is a mobile FPS zombie survival game built with Unity and C#. Fight through waves of infected enemies, complete survival missions, manage your weapons, and survive for as long as possible.
 
 - Unity / C#
 - FPS gameplay
 - Zombie AI
 - Weapon system
 - Mission system
-- Mobile optimized controls
+- Mobile optimized gameplay
 
-🔗 [Google Play](https://play.google.com/store/apps/details?id=com.afnan_studio.infection_zero)  
+🔗 [GET IT ON GOOGLE PLAY](https://play.google.com/store/apps/details?id=com.afnan_studio.infection_zero)  
 🔗 [Source Code](https://github.com/yfkafnan2003/infection-zero-unity)
 
 ---
@@ -47,84 +30,121 @@ A mobile FPS zombie survival game built with Unity and C#. Fight through waves o
 ### Dhaka After Dark — Horror Survival
 
 <p align="center">
-  <img src="YOUR_DHAKA_AFTER_DARK_IMAGE_URL_HERE" width="700"/>
+  <img src="./images/dhaka_after_dark_01.png" width="750"/>
 </p>
 
 **Dhaka After Dark** is a first-person horror survival game set in a haunting, post-apocalyptic version of Dhaka city.
 
 - First-person horror
 - Survival gameplay
-- Environmental design
+- Environment design
 - Gameplay systems
 - Atmospheric storytelling
 
-🔗 [Play on itch.io](https://afnan2003.itch.io/dhaka-after-dark)
-
----
-### Infection Zero (FPS Zombie Game)
-- Built with Unity (C#)
-- Mission system (survive, kill zombies)
-- Weapon system & UI
-- Mobile optimized gameplay
-
-🔗 Repo: [https://github.com/yfkafnan2003/infection-zero-unity](https://github.com/yfkafnan2003/infection-zero-unity)
+🔗 [PLAY ON ITCH.IO](https://afnan2003.itch.io/dhaka-after-dark)
 
 ---
 
-### Dhaka After Dark (Horror Survival)
-- атмосферic horror experience
-- environment design + gameplay systems
+## 💻 Competitive Programming
+
+I actively solve problems to improve algorithmic thinking, programming skills, and efficiency.
+
+- [Codeforces Profile](https://codeforces.com/profile/afnan179)
+- [Competitive Programming Repository](https://github.com/yfkafnan2003/Competitive-Programming)
+
+### Topics Covered
+
+- Data Structures
+- Algorithms
+- Problem Solving Techniques
 
 ---
 
-## 3D Artist Journey
+## 🎨 3D Artist Journey
 
-I create optimized 3D assets for games using Blender.
+I create optimized 3D assets, environments, and visual designs for games and other digital experiences using Blender.
 
-3D Portfolio Repo:  
-[https://github.com/yfkafnan2003/3D-Models-&-Arts](https://github.com/yfkafnan2003/3D-Models-And-Arts)
+[3D Models & Arts Repository](https://github.com/yfkafnan2003/3D-Models-And-Arts)
 
 ### Sample Work
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Sword.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Ramen%20Bowl.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Burger.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Donut.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Dekstop.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Sci%20Fi%20gun.png" width="200"/>
+  <img src="./images/Sword.png" width="200"/>
+  <img src="./images/Ramen%20Bowl.png" width="200"/>
+  <img src="./images/Burger.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="./images/Donut%202.png" width="200"/>
+  <img src="./images/Dekstop.png" width="200"/>
+  <img src="./images/Donut.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="./images/Riverside.png" width="200"/>
+  <img src="./images/Sci%20Fi%20Gun.png" width="200"/>
+  <img src="./images/SciFi%20Rifle.png" width="200"/>
 </p>
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
-### Fiverr (Freelance 3D Artist)
+### Fiverr — Freelance 3D Artist
+
 I worked as a freelance 3D artist creating custom models and game assets for clients.
 
-Fiverr Profile:  
-https://www.fiverr.com/kazi_afnan
+[Fiverr Profile](https://www.fiverr.com/kazi_afnan)
 
-Services:
+### Services
+
 - 3D Modeling
 - Game Assets
 - Custom Designs
 
 ---
 
-## Skills
+## 🛠️ Skills
 
-- **Game Development:** Unity, C#
-- **3D Modeling:** Blender
-- **Problem Solving:** Competitive Programming
+### Programming
+
+- **C++**
+- **C#**
+- **C**
+- **JavaScript**
+- **HTML**
+- **CSS**
+
+### Game Development
+
+- **Unity**
+- Gameplay Programming
+- Game Systems
+- Mobile Game Development
+
+### 3D & Design
+
+- **Blender**
+- 3D Modeling
+- Game Asset Creation
+- Animation
+- Visual Design
+
+### Problem Solving
+
+- Competitive Programming
+- Data Structures
+- Algorithms
 
 ---
 
-## Contact
+## 📫 Contact
 
 - Email: YOUR_EMAIL
 - GitHub: https://github.com/yfkafnan2003
 
 ---
 
-*Focused on building games, improving skills, and creating impactful digital experiences.*
+<p align="center">
+  <i>Focused on building games, solving problems, and creating impactful digital experiences.</i>
+</p>
