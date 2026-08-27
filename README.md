@@ -75,7 +75,7 @@ I create optimized 3D assets, environments, and visual designs for games and oth
 </p>
 
 <p align="center">
-  <img src="./images/Donut%202.png" width="200"/>
+  <img src="./images/Camera%202.png" width="200"/>
   <img src="./images/Dekstop.png" width="200"/>
   <img src="./images/Donut.png" width="200"/>
 </p>
@@ -84,6 +84,11 @@ I create optimized 3D assets, environments, and visual designs for games and oth
   <img src="./images/Riverside.png" width="200"/>
   <img src="./images/Sci%20Fi%20Gun.png" width="200"/>
   <img src="./images/SciFi%20Rifle.png" width="200"/>
+</p>
+<p align="center">
+  <img src="./images/Headphone%202.png" width="200"/>
+  <img src="./images/Keyboard.png" width="200"/>
+  <img src="./images/Product Cover.png" width="200"/>
 </p>
 
 ---
@@ -140,7 +145,7 @@ I worked as a freelance 3D artist creating custom models and game assets for cli
 
 ## 📫 Contact
 
-- Email: YOUR_EMAIL
+- Email: yfkafnan2003@gmail.com
 - GitHub: https://github.com/yfkafnan2003
 
 ---
