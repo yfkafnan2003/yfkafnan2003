@@ -20,7 +20,47 @@ Topics Covered:
 ---
 
 ## Projects
+---
 
+## Game Development
+
+### Infection Zero — FPS Zombie Survival
+
+<p align="center">
+  <img src="YOUR_INFECTION_ZERO_IMAGE_URL_HERE" width="700"/>
+</p>
+
+A mobile FPS zombie survival game built with Unity and C#. Fight through waves of infected enemies, complete survival missions, manage weapons, and survive as long as possible.
+
+- Unity / C#
+- FPS gameplay
+- Zombie AI
+- Weapon system
+- Mission system
+- Mobile optimized controls
+
+🔗 [Google Play](https://play.google.com/store/apps/details?id=com.afnan_studio.infection_zero)  
+🔗 [Source Code](https://github.com/yfkafnan2003/infection-zero-unity)
+
+---
+
+### Dhaka After Dark — Horror Survival
+
+<p align="center">
+  <img src="YOUR_DHAKA_AFTER_DARK_IMAGE_URL_HERE" width="700"/>
+</p>
+
+**Dhaka After Dark** is a first-person horror survival game set in a haunting, post-apocalyptic version of Dhaka city.
+
+- First-person horror
+- Survival gameplay
+- Environmental design
+- Gameplay systems
+- Atmospheric storytelling
+
+🔗 [Play on itch.io](https://afnan2003.itch.io/dhaka-after-dark)
+
+---
 ### Infection Zero (FPS Zombie Game)
 - Built with Unity (C#)
 - Mission system (survive, kill zombies)
@@ -37,12 +77,6 @@ Topics Covered:
 
 ---
 
-### Orbventure (2D Platformer)
-- classic platform mechanics
-- level design and player movement
-
----
-
 ## 3D Artist Journey
 
 I create optimized 3D assets for games using Blender.
@@ -53,15 +87,12 @@ I create optimized 3D assets for games using Blender.
 ### Sample Work
 
 <p align="center">
-  <img src="3D-Models-&-Arts/images/Sword.png" width="200"/>
-  <img src="3D-Models-&-Arts/images/Ramen Bowl.png" width="200"/>
-  <img src="3D-Models-&-Arts/images/Burger.png" width="200"/>
-  <img src="3D-Models-&-Arts/images/Donut 2.png" width="200"/>
-  <img src="3D-Models-&-Arts/images/Dekstop.png" width="200"/>
-  <img src="3D-Models-&-Arts/images/Donut.png" width="200"/>
-  <img src="3D-Models-&-Arts/images/Riverside.png" width="200"/>
-  <img src="3D-Models-&-Arts/images/Sci Fi Gun.png" width="200"/>
-  <img src="3D-Models-&-Arts/images/SciFi Rifle.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Sword.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Ramen%20Bowl.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Burger.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Donut.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Dekstop.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/yfkafnan2003/3D-Models-And-Arts/main/images/Sci%20Fi%20gun.png" width="200"/>
 </p>
 
 ---
