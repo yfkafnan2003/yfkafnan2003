@@ -5,7 +5,7 @@ I am a Unity game developer and 3D artist with hands-on experience building comp
 
 ---
 
-## 🎮 Game Development
+## Game Development
 
 ### Infection Zero — FPS Zombie Survival
 
@@ -45,7 +45,7 @@ I am a Unity game developer and 3D artist with hands-on experience building comp
 
 ---
 
-## 💻 Competitive Programming
+## Competitive Programming
 
 I actively solve problems to improve algorithmic thinking, programming skills, and efficiency.
 
@@ -60,7 +60,7 @@ I actively solve problems to improve algorithmic thinking, programming skills, a
 
 ---
 
-## 🎨 3D Artist Journey
+## 3D Artist Journey
 
 I create optimized 3D assets, environments, and visual designs for games and other digital experiences using Blender.
 
@@ -93,7 +93,7 @@ I create optimized 3D assets, environments, and visual designs for games and oth
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### Fiverr — Freelance 3D Artist
 
@@ -109,7 +109,7 @@ I worked as a freelance 3D artist creating custom models and game assets for cli
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Programming
 
@@ -143,7 +143,7 @@ I worked as a freelance 3D artist creating custom models and game assets for cli
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: yfkafnan2003@gmail.com
 - GitHub: https://github.com/yfkafnan2003
